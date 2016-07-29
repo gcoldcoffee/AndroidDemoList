@@ -20,6 +20,7 @@
 - [仿小米卸载应用 炸药的爆炸性粉尘效应](https://github.com/tyrantgit/ExplosionField)
 - [类似新消息标记拖动取消 ，弹性小球 ](https://github.com/siwangqishiq/DragIndicatorView)
 - [A cool search view animation library 搜索按钮动态改变以及动画](https://github.com/android-cjj/JJSearchViewAnim)
+- [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
 
 ##TV相关
 - [tv常用效果控件，包括焦点、边框处理等](https://github.com/evilbinary/TvWidget)
