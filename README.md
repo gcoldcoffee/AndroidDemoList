@@ -11,6 +11,7 @@
 - [俗名：垂直跑马灯；学名：垂直翻页公告](https://github.com/sfsheng0322/MarqueeView)
 - [一些漂亮的Android加载中，可与任何视图加载视图和进度条。此外，一些可画的也可以自定义加载进度](https://github.com/dinuscxj/LoadingDrawable)
 - [各种加载动画，效果超炫](https://github.com/baoyachi/AVLoadingIndicatorView)
+- [Android加载动画](https://github.com/ybq/Android-SpinKit)
 - [水波按进度上升，带环形进度条](https://github.com/Modificator/water-wave-progress)
 - [模拟水波纹的效果，实现流量的动态显示](https://github.com/xuyisheng/WaterWaveView)
 - [Android自定义ListView和ScrollView 图片拉放大](https://github.com/Frank-Zhu/PullZoomView)
