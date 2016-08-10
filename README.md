@@ -23,7 +23,7 @@
 - [A cool search view animation library 搜索按钮动态改变以及动画](https://github.com/android-cjj/JJSearchViewAnim)
 - [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
 - [酷炫的音量调节自定义View](https://github.com/JangGwa/VolumeView)
-- 
+
 
 ##TabBar
 - [NavigationTabBar 带指示器的Navigation tab bar，支持横屏、竖屏，滑动效果流畅，颜色搭配也很不错](http://androidone.io/info_10118.html)
