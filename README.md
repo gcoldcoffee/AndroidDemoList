@@ -13,6 +13,8 @@
 
 - [Android加载动画](https://github.com/ybq/Android-SpinKit)
  
+##直播间的各种动画view
+ - [点赞PeriscopeLayout](http://androidone.io/info_10272.html)
 
 ##各类特效demo集合
 - [Android 自定义View 时速仪表盘](https://github.com/SuperKung/DashboardView)
