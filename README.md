@@ -15,7 +15,7 @@
  
 
 ##各类特效demo集合
-- [Android 自定义View 时速仪表盘](https://github.com/SuperKung/DashboardView
+- [Android 自定义View 时速仪表盘](https://github.com/SuperKung/DashboardView)
 
 - [步骤，只使用stepviewindicator流量指示器，指示器，步阶，时间，过程，快递status](https://github.com/baoyachi/StepView)
 
