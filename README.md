@@ -10,6 +10,8 @@
 
 - [Android自定义ListView和ScrollView 图片拉放大](https://github.com/Frank-Zhu/PullZoomView)
 
+- [利用RecyclerView打造的滑动卡片View，支持左滑右滑删除](https://github.com/HalfStackDeveloper/SwipeCardRecyclerView)
+
 ##Loading 加载动画
 - [一些漂亮的Android加载中，可与任何视图加载视图和进度条。此外，一些可画的也可以自定义加载进度](https://github.com/dinuscxj/LoadingDrawable)
 
