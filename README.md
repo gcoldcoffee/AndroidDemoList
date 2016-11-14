@@ -22,6 +22,14 @@
 ##直播间的各种动画view
  - [点赞PeriscopeLayout](http://androidone.io/info_10272.html)
  
+##各种自定义view
+
+ - [安卓视图，允许用户创建图纸](https://github.com/ByoxCode/DrawView)
+ 
+ - [自动匹配部分字体不同颜色](https://github.com/zhonghanwen/ColorTextView)
+ 
+ - [仿支付宝咻一咻效果](https://github.com/Alex-Cin/RippleWaveView)
+ 
 ##ViewPager
  - [ExpandingPager](http://androidone.io/info_10271.html)
 
