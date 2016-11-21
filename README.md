@@ -77,3 +77,4 @@
 ##TV相关
 - [tv常用效果控件，包括焦点、边框处理等](https://github.com/evilbinary/TvWidget)
 - [据说东半球最好的TV桌面开源项目](https://github.com/JackyAndroid/AndroidTVLauncher)
+- [仿泰捷视频最新TV版 Metro UI效果](https://github.com/bighk/TVSample)
