@@ -28,6 +28,8 @@
  
  - [自动匹配部分字体不同颜色](https://github.com/zhonghanwen/ColorTextView)
  
+ - [未读消息显示样式](https://github.com/matrixxun/MaterialBadgeTextView)
+ 
  - [仿支付宝咻一咻效果](https://github.com/Alex-Cin/RippleWaveView)
  
 ##ViewPager
